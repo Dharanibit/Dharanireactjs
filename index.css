@@ -3,10 +3,10 @@
 
 /* Set some global styles for the body */
 body {
-  font-family: cursivessss;
-  margin: 25;
-  padding: 25px;;
-  background-color: #b18acb;
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+  padding:0;
+  background-color: #f0f0f0;
 }
 
 /* Set styles for the root element */
